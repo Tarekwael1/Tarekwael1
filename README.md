@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Tarekwael
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning cloud computing
-- 💞️ I’m looking to collaborate on ...
+- 🌡️ I prefer using Vibe coding and Prompting Engineering
+- 📒 I'm a mechatronics master's degree in Padova University
+- 💞️ I’m looking to collaborate on the merge between mechanical and software (AI)
 - 📫 How to reach me
 - Insta:https://www.instagram.com/tarek.wael11?igsh=dDRteDh6Y3dkdHF0
 - Facebook:https://www.facebook.com/share/15poZVAaDa/
